@@ -17,7 +17,7 @@ A comprehensive anime, movies, and TV shows review application that allows users
 - **npm** - Package management
 
 ### Backend
-- **Java Spring Boot** - Backend framework (27.7%)
+- **Java Spring Boot** - Backend framework 
 - **Maven** - Dependency management
 - **RESTful API** - For client-server communication
 
