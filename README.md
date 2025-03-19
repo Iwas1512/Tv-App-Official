@@ -1,6 +1,6 @@
 # AniViews
 
-A comprehensive anime, movies, and TV shows review application that allows users to leave reviews on their favorite content and discover what to watch next.
+AniViews is an immersive platform dedicated to anime, movies, and TV show enthusiasts. This full-stack application offers a seamless experience for users to discover, review, and engage with their favorite media content. Whether you're searching for honest opinions on the latest releases, want to share your thoughts on a classic series, or simply looking for recommendations tailored to your taste, AniViews provides a community-driven space where passionate viewers connect through their shared love of visual storytelling.
 
 ## 🌟 Features
 
