@@ -24,45 +24,6 @@ A comprehensive anime, movies, and TV shows review application that allows users
 ### Database
 - **MongoDB** - NoSQL database for storing user data, reviews, and media information
 
-## 📁 Project Structure
-
-```
-Tv-App-Official/
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── header/
-│   │   │   ├── hero/
-│   │   │   ├── home/
-│   │   │   ├── reviewform/
-│   │   │   ├── reviews/
-│   │   │   └── trailer/
-│   │   └── Layout.js
-│   ├── package.json
-│   └── package-lock.json
-│
-└── backend/
-    ├── movies/
-    │   ├── src/
-    │   │   └── main/
-    │   │       └── java/
-    │   │           └── com/
-    │   │               └── aniliwas/
-    │   │                   └── movies/
-    │   │                       ├── Movie.java
-    │   │                       ├── MovieController.java
-    │   │                       ├── MovieRepository.java
-    │   │                       ├── MovieService.java
-    │   │                       ├── MoviesApplication.java
-    │   │                       ├── Review.java
-    │   │                       ├── ReviewController.java
-    │   │                       ├── ReviewRepository.java
-    │   │                       └── ReviewService.java
-    │   ├── mvnw
-    │   ├── mvnw.cmd
-    │   └── pom.xml
-```
 
 ## 🚀 Getting Started
 
@@ -101,11 +62,11 @@ The application should now be running on [http://localhost:3000](http://localhos
 
 ## 📱 Usage
 
-1. **Register/Login**: Create an account or log in to access all features
+1. **Register/Login**: Create an account or log in to access all features (This Feature is not Added In Yet, In Development Currently)
 2. **Browse Content**: Explore the catalog of anime, movies, and TV shows
 3. **Read Reviews**: Check out what others have to say about particular titles
 4. **Write Reviews**: Share your thoughts by submitting your own reviews
-5. **Discover**: Use the ratings system to find new content that matches your interests
+5. **Discover**: Use the ratings system to find new content that matches your interests (Not Available Yet, In Dev)
 
 ## 🤝 Contributing
 
