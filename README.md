@@ -14,8 +14,6 @@ A comprehensive anime, movies, and TV shows review application that allows users
 
 ### Frontend
 - **React.js** - UI library for building the user interface
-- **JavaScript** - Primary programming language (51.5%)
-- **HTML/CSS** - Structure and styling (20.8% combined)
 - **npm** - Package management
 
 ### Backend
@@ -119,13 +117,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
 - [Spring Boot](https://spring.io/projects/spring-boot) for the backend framework
 - [React](https://reactjs.org/) for the frontend library
 - [MongoDB](https://www.mongodb.com/) for the database solution
-- All contributors and reviewers who have helped improve this project
+
